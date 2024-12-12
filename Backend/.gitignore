@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build directories (for React)
+build/
+dist/
+
+# Dependency directories
+.DS_Store
+coverage/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Optional Yarn or npm lock files (depending on your package manager)
+yarn.lock
+package-lock.json
